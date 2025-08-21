@@ -16,9 +16,9 @@ Você pode visualizar e interagir com o dashboard final através do seguinte lin
 
 ---
 
-### 📸 Screenshot
+### 📸 Como está!!
 
-![Screenshot do Dashboard](https://github.com/coutinhogit/datagamesproject/issues/1)
+![Screenshot do Dashboard](https://github.com/coutinhogit/datagamesproject/blob/main/images/dashboard_screenshot.png?raw=true)
 
 
 
