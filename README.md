@@ -18,9 +18,9 @@ Você pode visualizar e interagir com o dashboard final através do seguinte lin
 
 ### 📸 Screenshot
 
-![Screenshot do Dashboard](URL_PARA_UMA_SCREENSHOT_DO_SEU_DASHBOARD)
+![Screenshot do Dashboard](https://github.com/coutinhogit/datagamesproject/issues/1)
 
-*(Tire uma foto do seu dashboard funcionando e suba para o GitHub. Depois, substitua a URL acima pelo link da imagem)*
+
 
 ---
 
@@ -60,12 +60,12 @@ Se você deseja executar este projeto na sua própria máquina, siga os passos a
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git)
+    git clone [https://github.com/coutinhogit/datagamesproject.git](https://github.com/coutinhogit/datagamesproject.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd NOME_DO_SEU_REPOSITORIO
+    cd datagamesproject
     ```
 
 3.  **Crie e ative um ambiente virtual:**
@@ -93,6 +93,6 @@ Se você deseja executar este projeto na sua própria máquina, siga os passos a
 
 ### 👨‍💻 Autor
 
-* **[SEU NOME]**
-* **LinkedIn:** [URL_DO_SEU_LINKEDIN]
-* **GitHub:** [URL_DO_SEU_GITHUB]
+* **[Gabriel Coutinho Cezar]**
+* **LinkedIn:** [https://www.linkedin.com/in/gabriel-coutinho-cezar-b2b8821b7]
+* **GitHub:** [https://github.com/coutinhogit]
